@@ -4,7 +4,7 @@ Hi 👋 My name is Arphasiri Subbanyat
 Full-Stack Developer
 --------------------
 
-In just four months, I have immersed myself coding, learning HTML, CSS, and JavaScript and React. I've discovered a passion for front-end development but now aspire to delve into full-stack development. Excited to expand my skills and tackle new challenges, I'm ready to embrace the journey ahead with enthusiasm and determination.
+In just four months, I have immersed myself coding, learning HTML, CSS, and JavaScript and React. I've found a passion for front-end development but now aspire to delve into full-stack development. Excited to expand my skills and tackle new challenges.
 
 * 🌍  I'm based in phetchaburi
 * ✉️  You can contact me at [arphasirisubb@gmail.com](mailto:arphasirisubb@gmail.com)
@@ -53,6 +53,8 @@ src="https://img.shields.io/github/followers/Noppadonkarn?logo=github&style=for-
   <p  align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <br>
+
+### GitHub Analytics ⚙️
 
 <div align="center">
   <a href="https://github.com/Arphasirisub">
