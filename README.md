@@ -9,6 +9,12 @@ In just four months, I have immersed myself coding, learning HTML, CSS, and Java
 * 🌍  I'm based in phetchaburi
 * ✉️  You can contact me at [arphasirisubb@gmail.com](mailto:arphasirisubb@gmail.com)
 
+<a href="https://www.github.com/Noppadonkarn" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Noppadonkarn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p  align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <br>
+
 ### Skills
 
 
