@@ -4,7 +4,7 @@ Hi 👋 My name is Arphasiri Subbanyat
 Full-Stack Developer
 --------------------
 
-In just four months, I have immersed myself coding, learning HTML, CSS, and JavaScript and React. I've found a passion for front-end development but now aspire to delve into full-stack development. Excited to expand my skills and tackle new challenges.
+In just four months, I have learning HTML, CSS, and JavaScript and React. I've found a passion for front-end development but now aspire to delve into full-stack development. Excited to expand my skills and tackle new challenges.
 
 * 🌍  I'm based in phetchaburi
 * ✉️  You can contact me at [arphasirisubb@gmail.com](mailto:arphasirisubb@gmail.com)
